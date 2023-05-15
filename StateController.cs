@@ -8,7 +8,7 @@ public class StateController : MonoBehaviour
     State currentState;
     
     [SerializeField] public Transform placeToGo;
-    [SerializeField] public Transform placeToGoBack;
+    
 
 
     public GameInputs inputs;
