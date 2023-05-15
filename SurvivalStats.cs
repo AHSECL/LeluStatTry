@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class SurvivalStats : MonoBehaviour
+public class SurvivalStats
 {
 
     private float maxHunger;
