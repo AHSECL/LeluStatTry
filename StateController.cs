@@ -20,7 +20,7 @@ public class StateController : MonoBehaviour
     public AttackState attackState;
     public InteractionState interactionState;
     public SittingState sittingState;
-    private CharacterEnergy characterEnergy;
+    
 
 
     public SurvivalStats survivalStats;
